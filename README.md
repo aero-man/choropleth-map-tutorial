@@ -1,5 +1,5 @@
 # Making Colored Maps of New Zealand with Matplotlib and Geopandas
-This is the code for my Towards Data Science tutorial, where we create a map of firearm licenses among the 12 police districts of New Zealand. Data is courtesy of [Koordinates.com](https://koordinates.com/layer/3824-nz-police-district-boundaries/) and the [New Zealand Police]](https://www.police.govt.nz/about-us/publication/firearms-data).
+This is the code for my Towards Data Science tutorial, where we create a map of firearm licenses among the 12 police districts of New Zealand. Data is courtesy of [Koordinates.com](https://koordinates.com/layer/3824-nz-police-district-boundaries/) and the [New Zealand Police](https://www.police.govt.nz/about-us/publication/firearms-data).
 
 ![Choropleth map of firearm licenses per police district in New Zealand](nz_firearm_licenses.png)
 
